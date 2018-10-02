@@ -1,0 +1,26 @@
+[
+  {
+    "appTemplate" : "webapp",
+    "displayName" : "saqib",
+    "linkedApp" : "shared",
+    "name" : "saqib",
+    "requiredRoles" : "none",
+    "trilloVersion" : "2.0",
+    "useTestData" : true,
+    "usingEnumsCatalog" : true,
+    "usingStringFiles" : true,
+    "usingViewSpecs" : true
+  },
+  {
+    "appTemplate" : "webapp",
+    "displayName" : "test",
+    "linkedApp" : "shared",
+    "name" : "test",
+    "requiredRoles" : "none",
+    "trilloVersion" : "2.0",
+    "useTestData" : true,
+    "usingEnumsCatalog" : true,
+    "usingStringFiles" : true,
+    "usingViewSpecs" : true
+  }
+]
